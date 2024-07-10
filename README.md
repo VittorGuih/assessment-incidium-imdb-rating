@@ -2,7 +2,7 @@
 
 ### Passos para executar o projeto
 
-- Abrir o arquivo: **desafioIncidium.ipynb**
+- Abrir o arquivo: **LH_CD_vittor_guilherme_silva.ipynb**
 - Clicar em **open in colab**, como está na imagem a seguir:
 <img width="319" alt="image" src="https://github.com/VittorGuih/assessment-incidium-imdb-rating/assets/54645055/8ebe0fa1-7696-4890-863e-a963ce71a1f1">
 
